@@ -15,6 +15,11 @@ Donate:
 * Automatic collection of information from servers
 * Executing scripts on servers without logging in to them
 
+### What positive features of this system are implemented:
+
+* Cross-platform
+* Working from docker([Hera](https://github.com/Hera-system/Hera))
+
 ## System operation scheme:
 
 <div align="center">
