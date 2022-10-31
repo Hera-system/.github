@@ -1,5 +1,9 @@
 # Hera-system <img src="https://komarev.com/ghpvc/?username=Hera-system&label=Views&color=blue&style=plastic" alt="Hera-system" />
 
+Donate:
+
+<a href="https://qiwi.com/n/OLDTYT" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=QIWI&color=222222&logo=QIWI&logoColor=FF8C00&label=" alt="QIWI Donation" />
+
 ### Who is this system intended for:
 
 * DevOps
